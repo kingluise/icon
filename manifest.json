@@ -7,14 +7,14 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://kingluise.github.io/icon/log.jpg",
+      "src": "https://kingluise.github.io/icon/log.png",
       "sizes": "192x192",
-      "type": "image/jpeg"
+      "type": "image/png"
     },
     {
-      "src": "https://kingluise.github.io/icon/log.jpg",
+      "src": "https://kingluise.github.io/icon/log.png",
       "sizes": "512x512",
-      "type": "image/jpeg"
+      "type": "image/png"
     }
   ]
 }
